@@ -37,7 +37,7 @@ public class Class1
 
             bool Overfloat(in double value1, in double value2) //check for overfloating
             {
-                return value1 + value2 < Double.MaxValue;
+                return value1 + value2 > Double.MaxValue;
             }
         }
 
@@ -65,7 +65,7 @@ public class Class1
 
             bool Underfloat(in double value1, in double value2) //check for underfloating
             {
-                return value1 - value2 > Double.MinValue;
+                return value1 - value2 < Double.MinValue;
             }
         }
 
