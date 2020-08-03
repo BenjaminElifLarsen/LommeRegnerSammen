@@ -18,6 +18,7 @@ public class Class1
         {
         return a * b;
         wdwd
+        sdsdd
         }
 
         static double Divider(double a, double b)
