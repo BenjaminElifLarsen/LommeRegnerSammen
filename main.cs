@@ -12,6 +12,11 @@ public class Class1
             return b;
         }
 
+                static double Test2(int b = 5)
+        {
+            return b;
+        }
+
 
         //simple plus
         static double Plus(double a, double b)
