@@ -16,11 +16,12 @@ public class Class1
 
         static double Gange(double a, double b)
         {
+        return a * b;
         }
 
         static double Divider(double a, double b)
         {
-
+        return a / b;
         }
 
 	}
