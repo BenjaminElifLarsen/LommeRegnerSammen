@@ -30,7 +30,7 @@ public class Class1
             else if (a == b)
             {
                 if (!Overfloat(in a, in a))
-                    return Gange(a,a);
+                    return Gange(a,2);
                 else
                 {
                     Debug.WriteLine("Overfloat ");
