@@ -17,8 +17,6 @@ public class Class1
         static double Gange(double a, double b)
         {
         return a * b;
-        wdwd
-        sdsdd
         }
 
         static double Divider(double a, double b)
