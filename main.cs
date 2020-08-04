@@ -9,7 +9,7 @@ public class Class1
 	{
         static double Test(int b = 5)
         {
-            return bb;
+            return b;
         }
 
                 static double Test2(int b = 5)
