@@ -78,20 +78,21 @@ public class Class1
                 return value1 - value2 < Double.MinValue;
             }
         }
-
+        
+        // Gange
         static double Gange(double a, double b)
         {
-        return a * b;
+            return a * b;
         }
-
+        
+        // Divider
         static double Divider(double a, double b)
         {
-        return a / b;
+            return a / b;
         }
 
 	}
 }
-
 
 class Program
 {
@@ -100,4 +101,3 @@ class Program
 
     }
 }
-// Change, just to test git.
