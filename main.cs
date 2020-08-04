@@ -7,11 +7,6 @@ public class Class1
 {
 	public Class1()
 	{
-        static double Test(int b = 5)
-        {
-            return b;
-        }
-
                 static double Test2(int b = 5)
         {
             return b;
