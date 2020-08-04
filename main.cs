@@ -17,8 +17,7 @@ public class Class1
             return b;
         }
 
-
-        //simple plus
+                //simple plus
         static double Plus(double a, double b)
         {
             if (a == 0 && b != 0)
